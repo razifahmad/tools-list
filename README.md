@@ -23,8 +23,7 @@ This document was designed to be a useful and informational asset reference
 * **[Amass](https://github.com/OWASP/Amass):** In-depth attack surface mapping and asset discovery for domain name server and its associate
 * **[EmailHarvester](https://github.com/maldevel/EmailHarvester):** Retrieve Domain email addresses from Search Engines
 * **[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness):** Designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
-* **Google Earth Pro:**
-
+* **Google Earth Pro:** 
 * **HTTrack Cloner:** Downloader for World Wide Web site from the Internet to a local directory
 * **InstaLooter:** Downloader for picture or video associated from an Instagram profile, without any API access
 * **KeePassXC:** A password manager that allow to creates and stores passwords in one location
@@ -32,8 +31,7 @@ This document was designed to be a useful and informational asset reference
 * **Maltego:** Graphical link analyses that makes data-driven investigations easy and efficient
 * **Metagoofil:** Information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
 * **MediaInfo:** Convenient unified display of the most relevant technical and tag data for video and audio files
-* **Metadata Anylisation Toolkit:**
-
+* **Metadata Anylisation Toolkit:** 
 * **Photon:** Relatively fast crawler designed for automating OSINT with a simple interface and tons of customization options
 * **ReconDog:** All in one tool for all your basic information gathering needs
 * **Recon-NG:** Full-featured web reconnaissance framework with independent modules, database interaction and built in convenience functions
@@ -46,8 +44,7 @@ This document was designed to be a useful and informational asset reference
 * **theHarvester:** Gathers emails, names, subdomains, IPs, and URLs using multiple public data sources
 * **Tinfoleak:** Tools for OSINT and SOCMINT (Social Media Intelligence) disciplines, that automates the extraction of information on Twitter and facilitates subsequent analysis for the generation of intelligence
 * **Twint:** An advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API
-* **Twitter Exporter:**
-
+* **Twitter Exporter:** 
 * **VeraCrypt:** To create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication
 
 ---
@@ -69,6 +66,5 @@ This document was designed to be a useful and informational asset reference
 
 ### Productivity
 * **Kleopatra:** A certificate manager that allows for the management of all certificates in one tool
-* **Knock Pages:**
-
+* **Knock Pages:** 
 * **LibreOffice:** Personal productivity suite that gives six feature rich applications for all your document production, data processing needs and  etc
