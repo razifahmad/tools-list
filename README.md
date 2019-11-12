@@ -6,6 +6,9 @@ This document was designed to be a useful and informational asset reference
 ## Table of Contents
 * [Browser](#browser)
 * [Recon](#recon)
+* [Forensic](#forensic)
+* [Multimedia](#multimedia)
+* [Productivity](#productivity)
 
 ### Browser
 * **Custom Firefox Browser & Add-Ons:** Add on custom browser extension for Firefox
@@ -13,24 +16,14 @@ This document was designed to be a useful and informational asset reference
 * **Tor Browser:** Specific browser to access TOR networks to protect your privacy and anonymity
 
 ### Recon
-* **Custom Video Manipulation Utilities:** Video manipulation software, for editing such as Audacity and Handbrake
-* **Custom Video Download Utility:** Video download such as Clipgrabd, Jdownloader, YMate, Videograbber
 * **[Amass](https://github.com/OWASP/Amass):** In-depth attack surface mapping and asset discovery for domain name server and its associate
-* **[BleachBit](https://github.com/bleachbit/bleachbit):** System cleaner for antiforensics, security and protect privacy
 * **[EmailHarvester](https://github.com/maldevel/EmailHarvester):** Retrieve Domain email addresses from Search Engines
-* **[ExifTool](https://github.com/exiftool/exiftool):** A platform-independent command-line application for reading, writing, and editing Meta information that is contained by image, audio and video files
-* **EyeWitness:** Designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
-* **Ghiro:** Fully automated tool designed to run forensics analysis over a massive amount of images, just using an user friendly and fancy web application
-* **GIMP:** High quality photo manipulation and framework for scripted image manipulation
+* **[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness):** Designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
 * **Google Earth Pro:**
 
 * **HTTrack Cloner:** Downloader for World Wide Web site from the Internet to a local directory
 * **InstaLooter:** Downloader for picture or video associated from an Instagram profile, without any API access
 * **KeePassXC:** A password manager that allow to creates and stores passwords in one location
-* **Kleopatra:** A certificate manager that allows for the management of all certificates in one tool
-* **Knock Pages:**
-
-* **LibreOffice:** Personal productivity suite that gives six feature rich applications for all your document production, data processing needs and  etc
 * **LinkedInt:** Gather profile data and emphasis in network connections
 * **Maltego:** Graphical link analyses that makes data-driven investigations easy and efficient
 * **Metagoofil:** Information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company
@@ -52,4 +45,20 @@ This document was designed to be a useful and informational asset reference
 * **Twitter Exporter:**
 
 * **VeraCrypt:** To create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication
+
+### Forensic
+* **[BleachBit](https://github.com/bleachbit/bleachbit):** System cleaner for antiforensics, security and protect privacy
+* **[ExifTool](https://github.com/exiftool/exiftool):** A platform-independent command-line application for reading, writing, and editing Meta information that is contained by image, audio and video files
+* **Ghiro:** Fully automated tool designed to run forensics analysis over a massive amount of images, just using an user friendly and fancy web application
+
+### Multimedia
 * **VLC:** Multimedia player and framework 
+* **Custom Video Manipulation Utilities:** Video manipulation software, for editing such as Audacity and Handbrake
+* **Custom Video Download Utility:** Video download such as Clipgrabd, Jdownloader, YMate, Videograbber
+* **GIMP:** High quality photo manipulation and framework for scripted image manipulation
+
+### Productivity
+* **Kleopatra:** A certificate manager that allows for the management of all certificates in one tool
+* **Knock Pages:**
+
+* **LibreOffice:** Personal productivity suite that gives six feature rich applications for all your document production, data processing needs and  etc
