@@ -10,10 +10,14 @@ This document was designed to be a useful and informational asset reference
 * [Multimedia](#multimedia)
 * [Productivity](#productivity)
 
+---
+
 ### Browser
 * **Custom Firefox Browser & Add-Ons:** Add on custom browser extension for Firefox
 * **Custom Chrome Browser & Extensions:** Add on custom browser extension for Chrome
 * **Tor Browser:** Specific browser to access TOR networks to protect your privacy and anonymity
+
+---
 
 ### Recon
 * **[Amass](https://github.com/OWASP/Amass):** In-depth attack surface mapping and asset discovery for domain name server and its associate
@@ -46,16 +50,22 @@ This document was designed to be a useful and informational asset reference
 
 * **VeraCrypt:** To create a virtual encrypted disk within a file or encrypt a partition or the entire storage device with pre-boot authentication
 
+---
+
 ### Forensic
 * **[BleachBit](https://github.com/bleachbit/bleachbit):** System cleaner for antiforensics, security and protect privacy
 * **[ExifTool](https://github.com/exiftool/exiftool):** A platform-independent command-line application for reading, writing, and editing Meta information that is contained by image, audio and video files
 * **Ghiro:** Fully automated tool designed to run forensics analysis over a massive amount of images, just using an user friendly and fancy web application
+
+---
 
 ### Multimedia
 * **VLC:** Multimedia player and framework 
 * **Custom Video Manipulation Utilities:** Video manipulation software, for editing such as Audacity and Handbrake
 * **Custom Video Download Utility:** Video download such as Clipgrabd, Jdownloader, YMate, Videograbber
 * **GIMP:** High quality photo manipulation and framework for scripted image manipulation
+
+---
 
 ### Productivity
 * **Kleopatra:** A certificate manager that allows for the management of all certificates in one tool
