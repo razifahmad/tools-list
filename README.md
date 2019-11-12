@@ -1,7 +1,7 @@
 # tools-list
 
 ## Summary
-This document was designed to be a useful, informational asset reference
+This document was designed to be a useful and informational asset reference
 
 ## Table of Contents
 * [Browser](#browser)
@@ -16,9 +16,9 @@ This document was designed to be a useful, informational asset reference
 * **Custom Video Manipulation Utilities:** Video manipulation software, for editing such as Audacity and Handbrake
 * **Custom Video Download Utility:** Video download such as Clipgrabd, Jdownloader, YMate, Videograbber
 * **[Amass](https://github.com/OWASP/Amass):** In-depth attack surface mapping and asset discovery for domain name server and its associate
-* **BleachBit:** System cleaner for antiforensics, security and protect privacy
-* **EmailHarvester:** Retrieve Domain email addresses from Search Engines
-* **ExifTool:** A platform-independent command-line application for reading, writing, and editing Meta information that is contained by image, audio and video files
+* **[BleachBit](https://github.com/bleachbit/bleachbit):** System cleaner for antiforensics, security and protect privacy
+* **[EmailHarvester](https://github.com/maldevel/EmailHarvester):** Retrieve Domain email addresses from Search Engines
+* **[ExifTool](https://github.com/exiftool/exiftool):** A platform-independent command-line application for reading, writing, and editing Meta information that is contained by image, audio and video files
 * **EyeWitness:** Designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
 * **Ghiro:** Fully automated tool designed to run forensics analysis over a massive amount of images, just using an user friendly and fancy web application
 * **GIMP:** High quality photo manipulation and framework for scripted image manipulation
