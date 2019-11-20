@@ -73,7 +73,7 @@ This document was designed to be a useful and informational asset reference
 
 ### Macro
 * **[MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild):** Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass
-* **[EvilClippy]:**
+* **[EvilClippy](https://github.com/outflanknl/EvilClippy):** A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows
 
 ---
 
@@ -81,3 +81,8 @@ This document was designed to be a useful and informational asset reference
 * **[PoshC2](https://github.com/nettitude/PoshC2_Python):** a proxy aware C2 framework written completely in PowerShell to aid penetration testers with red teaming, post-exploitation and lateral movement
 * **[Quasar](https://github.com/quasar/QuasarRAT):** Fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you
 * **[Pupy](https://github.com/n1nj4sec/pupy):** Cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
+
+---
+
+###
+* **[Demiguise](https://github.com/nccgroup/demiguise):** A HTA encryption tool for RedTeams
