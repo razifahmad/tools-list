@@ -24,8 +24,8 @@ This document was designed to be a useful and informational asset reference
 * **[EmailHarvester](https://github.com/maldevel/EmailHarvester):** Retrieve Domain email addresses from Search Engines
 * **[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness):** Designed to take screenshots of websites, RDP services, and open VNC servers, provide some server header info, and identify default credentials if possible
 * **Google Earth Pro:** 
-* **HTTrack Cloner:** Downloader for World Wide Web site from the Internet to a local directory
-* **InstaLooter:** Downloader for picture or video associated from an Instagram profile, without any API access
+* **[HTTrack Cloner](https://github.com/xroche/httrack):** Downloader for World Wide Web site from the Internet to a local directory
+* **[InstaLooter](https://github.com/althonos/InstaLooter):** Downloader for picture or video associated from an Instagram profile, without any API access
 * **KeePassXC:** A password manager that allow to creates and stores passwords in one location
 * **LinkedInt:** Gather profile data and emphasis in network connections
 * **Maltego:** Graphical link analyses that makes data-driven investigations easy and efficient
@@ -66,5 +66,18 @@ This document was designed to be a useful and informational asset reference
 
 ### Productivity
 * **Kleopatra:** A certificate manager that allows for the management of all certificates in one tool
-* **Knock Pages:** 
-* **LibreOffice:** Personal productivity suite that gives six feature rich applications for all your document production, data processing needs and  etc
+* **Knock Pages:**   
+* **LibreOffice:** Personal productivity suite that gives six feature rich applications     all your document production, data processing needs and  etc
+
+---
+
+### Macro
+* **[MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild):** Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass
+* **[EvilClippy]:**
+
+---
+
+### Command and Control
+* **[PoshC2](https://github.com/nettitude/PoshC2_Python):** a proxy aware C2 framework written completely in PowerShell to aid penetration testers with red teaming, post-exploitation and lateral movement
+* **[Quasar](https://github.com/quasar/QuasarRAT):** Fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you
+* **[Pupy](https://github.com/n1nj4sec/pupy):** Cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python
